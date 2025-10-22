@@ -1,0 +1,100 @@
+{
+  "header": {
+    "title": "KI Golfschwung Studie",
+    "schedule": "Termin buchen"
+  },
+  "hero": {
+    "title": "Willkommen bei unserer KI-gestützten Golfschwunganalyse-Studie!",
+    "description": "Vielen Dank für Ihr Interesse an unserer Studie, die am FAU Machine Learning and Data Analytics Lab in Erlangen durchgeführt wird. Wir werden Ihre Golfschwünge mit hochauflösenden Kameras und einem Vicon-Bewegungserfassungssystem aufzeichnen, um präzise Daten für eine fortschrittliche KI-Analyse zu sammeln.",
+    "cta": {
+      "schedule": "Buchen Sie Ihren Termin",
+      "learnMore": "Mehr erfahren"
+    }
+  },
+  "details": {
+    "heading": "Wichtige Details",
+    "duration": {
+      "title": "Dauer",
+      "description": "Die Sitzung dauert ungefähr 1–2 Stunden."
+    },
+    "when": {
+      "title": "Wann",
+      "description": "Okt-Nov 2025"
+    },
+    "who": {
+      "title": "Wer",
+      "description": "Rechtshändige Golfer"
+    },
+    "safety": {
+      "title": "Sicherheit",
+      "description": "Die Körpermarker sind nicht-invasiv und für Komfort ausgelegt. Sie können auf der Haut oder auf geeigneter Kleidung platziert werden."
+    }
+  },
+  "process": {
+    "heading": "Der Prozess",
+    "steps": {
+      "marker": {
+        "title": "1. Marker-Platzierung",
+        "description": "IR-reflektierende Körpermarker werden an wichtigen Gelenken und Körpersegmenten platziert. Sie können auf der Haut oder auf geeigneter (eng anliegender) Kleidung angebracht werden."
+      },
+      "swing": {
+        "title": "2. Schwung-Aufzeichnung",
+        "description": "Sie werden eine Reihe von Golfschwüngen durchführen, die es uns ermöglichen, Ihre Bewegung zu erfassen und die Entwicklung unserer KI-Coaching-Forschung zu unterstützen."
+      },
+      "analysis": {
+        "title": "3. Datenanalyse",
+        "description": "Ihre Daten ermöglichen es uns, markerbasierte und markerlose Pose-Estimation-Algorithmen zu analysieren und zu vergleichen und ihre Genauigkeit für KI-gesteuerte Golf-Coaching-Systeme zu bewerten."
+      }
+    }
+  },
+  "benefits": {
+    "heading": "Vorteile & Details der Studie",
+    "who": {
+      "title": "Wer kann teilnehmen?",
+      "description": "Wir suchen rechtshändige Golfer aller Spielstärken zur Teilnahme an unserer Studie."
+    },
+    "privacy": {
+      "title": "Datenschutz",
+      "description": "Sofern Sie keine ausdrückliche Genehmigung erteilen, wird kein Filmmaterial geteilt oder in irgendeiner Weise veröffentlicht."
+    },
+    "incentive": {
+      "title": "Anreiz",
+      "description": "Genießen Sie als Dankeschön eine Stunde exklusiven Zugang zu unserem Trackman-Simulator und erhalten Sie ein kleines Geschenk!"
+    }
+  },
+  "location": {
+    "heading": "Wo findet die Studie statt?",
+    "labName": "FAU Machine Learning and Data Analytics Lab",
+    "address": "Carl-Thiersch-Straße 2b, 91052 Erlangen",
+    "parking": "Gute Parkmöglichkeiten direkt vor dem Eingang."
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "question": "Was ist Vicon?",
+        "answer": "Vicon ist ein hochpräzises, markerbasiertes Bewegungserfassungssystem, das 'Ground Truth'-Daten für unsere Analyse liefert."
+      },
+      {
+        "question": "Welche Art von Daten sammeln Sie?",
+        "answer": "Wir erfassen Ihre Schwungbewegung, um die Entwicklung unserer KI-Coaching-Forschung zu unterstützen. Ihre Daten ermöglichen es uns, markerbasierte und markerlose Pose-Estimation-Algorithmen zu analysieren und zu vergleichen."
+      },
+      {
+        "question": "Wer führt diese Studie durch?",
+        "answer": "Diese Studie wird vom FAU Machine Learning and Data Analytics Lab in Erlangen durchgeführt."
+      },
+      {
+        "question": "Was sollte ich zur Sitzung mitbringen?",
+        "answer": "Bitte bringen Sie Ihre eigenen Golfschläger mit und tragen Sie bequeme, eng anliegende Sportkleidung (wie Kompressionsshorts/-leggings und ein eng anliegendes Shirt), um eine genaue Datenerfassung zu gewährleisten."
+      },
+      {
+        "question": "Ich habe eine Frage, an wen kann ich mich wenden?",
+        "answer": "Wenn Sie Fragen haben, zögern Sie bitte nicht, uns über sebastian.hoefler@fau.de zu kontaktieren."
+      }
+    ]
+  },
+  "footer": {
+    "title": "KI Golfschwung Studie",
+    "copyright": "FAU Machine Learning and Data Analytics Lab."
+  }
+}

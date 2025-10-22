@@ -1,0 +1,100 @@
+{
+  "header": {
+    "title": "AI Golf Swing Study",
+    "schedule": "Schedule Now"
+  },
+  "hero": {
+    "title": "Welcome to Our AI-Powered Golf Swing Analysis Study!",
+    "description": "Thank you for your interest in participating in our research conducted at the FAU Machine Learning and Data Analytics Lab in Erlangen. We will record your golf swings using high-definition cameras and a Vicon motion tracking system to collect precise data for advanced AI analysis.",
+    "cta": {
+      "schedule": "Schedule Your Session",
+      "learnMore": "Learn More"
+    }
+  },
+  "details": {
+    "heading": "Key Details to Note",
+    "duration": {
+      "title": "Duration",
+      "description": "The session will last approximately 1–2 hours."
+    },
+    "when": {
+      "title": "When",
+      "description": "Oct-Nov 2025"
+    },
+    "who": {
+      "title": "Who",
+      "description": "Right-handed golfers"
+    },
+    "safety": {
+      "title": "Safety",
+      "description": "Body markers are non-invasive and designed for comfort. They can be placed on the skin or on suitable clothing."
+    }
+  },
+  "process": {
+    "heading": "The Process",
+    "steps": {
+      "marker": {
+        "title": "1. Marker Placement",
+        "description": "IR-Reflective Body Markers will be placed on key joints and segments of the body. They can be placed on the skin or on suitable (tight fitting) clothing."
+      },
+      "swing": {
+        "title": "2. Swing Recording",
+        "description": "You will perform a series of golf swings, allowing us to capture your motion and aid the development of our AI coaching research."
+      },
+      "analysis": {
+        "title": "3. Data Analysis",
+        "description": "Your data will enable us to analyze and compare marker-based and markerless pose estimation algorithms, assessing their accuracy for AI-driven golf coaching systems."
+      }
+    }
+  },
+  "benefits": {
+    "heading": "Study Perks & Details",
+    "who": {
+      "title": "Who can participate?",
+      "description": "We are looking for right-handed golfers of all skill levels to participate in our study."
+    },
+    "privacy": {
+      "title": "Privacy",
+      "description": "Unless you provide explicit permission, no footage will be shared or made public in any way."
+    },
+    "incentive": {
+      "title": "Incentive",
+      "description": "Enjoy one hour of exclusive access to our Trackman simulator as a thank-you, plus receive a small gift!"
+    }
+  },
+  "location": {
+    "heading": "Where is the Study taking place?",
+    "labName": "FAU Machine Learning and Data Analytics Lab",
+    "address": "Carl-Thiersch-Straße 2b, 91052 Erlangen",
+    "parking": "Easy parking available right in front of the entrance."
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "questions": [
+      {
+        "question": "What is Vicon?",
+        "answer": "Vicon is a high-precision, marker-based motion capture system that provides 'ground truth' data for our analysis."
+      },
+      {
+        "question": "What kind of data are you collecting?",
+        "answer": "We are capturing your swing motion to aid the development of our AI coaching research. Your data will enable us to analyze and compare marker-based and markerless pose estimation algorithms."
+      },
+      {
+        "question": "Who is running this study?",
+        "answer": "This study is conducted by the FAU Machine Learning and Data Analytics Lab in Erlangen."
+      },
+      {
+        "question": "What should I bring to the session?",
+        "answer": "Please bring your own set of golf clubs and wear comfortable, form-fitting athletic clothing (like compression shorts/leggings and a tight-fitting shirt) to ensure accurate data capture."
+      },
+      {
+        "question": "I have a question, who can I contact?",
+        "answer": "If you have any questions, please don’t hesitate to reach out via sebastian.hoefler@fau.de."
+      }
+    ]
+  },
+  "footer": {
+    "title": "AI Golf Swing Study",
+    "copyright": "FAU Machine Learning and Data Analytics Lab."
+  }
+}

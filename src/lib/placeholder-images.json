@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-golf-swing",
+      "description": "A golfer's swing being analyzed with motion capture graphics overlaid.",
+      "imageUrl": "/images/swing.webp",
+      "imageHint": "golf motion-capture"
+    },
+    {
+      "id": "marker-placement",
+      "description": "Reflective markers being placed on a person's body for Vicon motion capture. (Credits: Vicon)",
+      "imageUrl": "/images/vicon.jpg",
+      "imageHint": "motion-capture markers"
+    },
+    {
+      "id": "swing-recording",
+      "description": "A golfer swinging in a lab with cameras recording the motion. (Credits: Computer Graphics World)",
+      "imageUrl": "/images/cgw.jpg",
+      "imageHint": "golf simulator"
+    },
+    {
+      "id": "data-analysis",
+      "description": "A computer screen showing complex biomechanical data and graphs of a golf swing.",
+      "imageUrl": "/images/analysis.jpg",
+      "imageHint": "data analysis"
+    }
+  ]
+}
