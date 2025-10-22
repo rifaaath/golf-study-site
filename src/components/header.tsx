@@ -5,7 +5,7 @@ import Logo from './logo';
 import { useLanguage } from '@/contexts/language-context';
 import { LanguageSwitcher } from './language-switcher';
 
-const CALENDLY_LINK = "https://calendly.com/your-scheduling-link";
+const CALENDLY_LINK = "https://calendly.com/hoefler-sebastian";
 
 export function Header() {
   const { translations } = useLanguage();
