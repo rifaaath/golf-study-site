@@ -3,7 +3,7 @@
     {
       "id": "hero-golf-swing",
       "description": "A golfer's swing being analyzed with motion capture graphics overlaid.",
-      "imageUrl": "/images/swing.webp",
+      "imageUrl": "/images/swing.png",
       "imageHint": "golf motion-capture"
     },
     {
@@ -15,7 +15,7 @@
     {
       "id": "swing-recording",
       "description": "A golfer swinging in a lab with cameras recording the motion. (Credits: Computer Graphics World)",
-      "imageUrl": "/images/cgw.jpg",
+      "imageUrl": "/images/cgw.png",
       "imageHint": "golf simulator"
     },
     {
