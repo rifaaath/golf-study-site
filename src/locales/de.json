@@ -15,7 +15,7 @@
     "heading": "Wichtige Details",
     "duration": {
       "title": "Dauer",
-      "description": "Die Sitzung dauert ungefähr 1–2 Stunden."
+      "description": "Die Sitzung dauert ungefähr 2-3 Stunden."
     },
     "when": {
       "title": "Wann",
@@ -55,7 +55,7 @@
     },
     "privacy": {
       "title": "Datenschutz",
-      "description": "Sofern Sie keine ausdrückliche Genehmigung erteilen, wird kein Filmmaterial geteilt oder in irgendeiner Weise veröffentlicht."
+      "description": "Da wir den Datensatz veröffentlichen möchten, benötigen wir eine Nutzungserlaubnis. Ihre Daten werden ausschließlich zu Forschungszwecken verwendet. Fragen Sie uns, wenn Sie mehr erfahren möchten."
     },
     "incentive": {
       "title": "Anreiz",
@@ -85,7 +85,7 @@
       },
       {
         "question": "Was sollte ich zur Sitzung mitbringen?",
-        "answer": "Bitte bringen Sie Ihre eigenen Golfschläger mit und tragen Sie bequeme, eng anliegende Sportkleidung (wie Kompressionsshorts/-leggings und ein eng anliegendes Shirt), um eine genaue Datenerfassung zu gewährleisten."
+        "answer": "Bitte tragen Sie bequeme, körperbetonte Sportkleidung (wie Kompressionsshorts/-leggings und ein eng anliegendes Shirt), um eine genaue Datenerfassung zu gewährleisten."
       },
       {
         "question": "Ich habe eine Frage, an wen kann ich mich wenden?",

@@ -15,11 +15,11 @@
     "heading": "Key Details to Note",
     "duration": {
       "title": "Duration",
-      "description": "The session will last approximately 1–2 hours."
+      "description": "The session will last approximately 2-3 hours."
     },
     "when": {
       "title": "When",
-      "description": "Oct-Nov 2025"
+      "description": "Nov 2025"
     },
     "who": {
       "title": "Who",
@@ -55,7 +55,7 @@
     },
     "privacy": {
       "title": "Privacy",
-      "description": "Unless you provide explicit permission, no footage will be shared or made public in any way."
+      "description": "Since we want to release the dataset, we need permission to use the data. Your data will only be used for research purposes. Ask us if you want to know more."
     },
     "incentive": {
       "title": "Incentive",
@@ -85,7 +85,7 @@
       },
       {
         "question": "What should I bring to the session?",
-        "answer": "Please bring your own set of golf clubs and wear comfortable, form-fitting athletic clothing (like compression shorts/leggings and a tight-fitting shirt) to ensure accurate data capture."
+        "answer": "Please wear comfortable, form-fitting athletic clothing (like compression shorts/leggings and a tight-fitting shirt) to ensure accurate data capture."
       },
       {
         "question": "I have a question, who can I contact?",
