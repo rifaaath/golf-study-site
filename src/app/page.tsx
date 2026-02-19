@@ -17,7 +17,32 @@ export default function Home() {
         <Process />
         <Benefits />
         <Location />
+        <section className="w-full bg-muted/40 py-16">
+          <div className="container mx-auto px-4 text-center">
+            
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">
+              Have a question?
+            </h2>
+            
+            <p className="text-muted-foreground mb-10">
+              Use the form below and we’ll get back to you as soon as possible.
+            </p>
+
+            <div className="flex justify-center">
+              <iframe
+                className="w-full max-w-3xl h-[650px] rounded-2xl shadow-xl bg-white"
+                src="https://forms.office.com/Pages/ResponsePage.aspx?id=887vspaEuECd6PE1mC80YRBxVfDN7_dPoeC2lZ7OJExUODhCTktPTkJPNkdTSUVYMUM4T1lXOFA1TC4u&embed=true"
+                frameBorder="0"
+                allowFullScreen
+              />
+            </div>
+
+          </div>
+        </section>
+
         <Faq />
+        
+
       </main>
       <Footer />
     </div>
