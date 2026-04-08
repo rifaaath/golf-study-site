@@ -22,7 +22,7 @@ export function Hero() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
             <Button size="lg" variant="default" asChild className="shadow-lg hover:shadow-xl transition-shadow bg-accent text-accent-foreground hover:bg-accent/90">
-              <a href={CALENDLY_LINK} target="_blank" rel="noopener noreferrer">
+              <a href="#contact" target="_blank" rel="noopener noreferrer">
                 {translations.hero.cta.schedule}
               </a>
             </Button>

@@ -17,11 +17,11 @@ export default function Home() {
         <Process />
         <Benefits />
         <Location />
-        <section className="w-full bg-muted/40 py-16">
+        <section id="contact" className="w-full bg-muted/40 py-16">
           <div className="container mx-auto px-4 text-center">
             
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Have a question?
+              Have a question / Schedule a Session?
             </h2>
             
             <p className="text-muted-foreground mb-10">
