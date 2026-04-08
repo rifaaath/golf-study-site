@@ -19,7 +19,7 @@ export function Header() {
         </Link>
         <div className="flex items-center gap-2">
           <Button asChild>
-            <a href="#contact" target="_blank" rel="noopener noreferrer">
+            <a href="#contact">
               {translations.header.schedule}
             </a>
           </Button>
